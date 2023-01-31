@@ -1,3 +1,7 @@
 hii
+<<<<<<< Updated upstream
 hello
 hlo
+=======
+hello
+>>>>>>> Stashed changes
